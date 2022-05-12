@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\bin\Debug\Exemplo2_Aula04.exe.config
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\bin\Debug\Exemplo2_Aula04.exe
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\bin\Debug\Exemplo2_Aula04.pdb
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.Form1.resources
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.Properties.Resources.resources
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.exe
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.pdb
+C:\Users\aluno\source\repos\Exemplo2_Aula04\Exemplo2_Aula04\obj\Debug\Exemplo2_Aula04.csproj.AssemblyReference.cache
