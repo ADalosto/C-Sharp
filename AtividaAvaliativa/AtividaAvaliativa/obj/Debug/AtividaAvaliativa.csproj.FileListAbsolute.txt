@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\bin\Debug\AtividaAvaliativa.exe.config
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\bin\Debug\AtividaAvaliativa.exe
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\bin\Debug\AtividaAvaliativa.pdb
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.Form1.resources
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.Properties.Resources.resources
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.exe
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.pdb
+C:\Users\aluno\source\repos\AtividaAvaliativa\AtividaAvaliativa\obj\Debug\AtividaAvaliativa.Form2.resources
